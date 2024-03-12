@@ -1,0 +1,43 @@
+body 
+{
+  background-color: hsl(64, 17%, 47%);
+  text-align: center;
+}
+h1 
+{
+  color: hwb(83 13% 69%);
+  border-style: solid;
+  border-color:white;  
+  border-width:2px;
+  padding: 10px;
+}
+#nome
+{
+  text-decoration: underline;
+  font-size:40px;
+  color: hwb(101 4% 69% / 0.69);
+  background: white;
+}
+a
+{
+  color: hsl(120, 69%, 25%);
+  font-size: 20px;
+  border-style: dashed;
+  border-color: hwb(120 3% 71%);
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+p{
+  color: hwb(0 11% 75%);
+  word-spacing: 10px;
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.informacoes{
+    color: hwb(0 0% 100%);
+    font-size: 18px;
+}
